@@ -1,6 +1,6 @@
 # OpenRGB-REST
 
-A basic REST API for [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) using my [openrgb-python](https://github.com/jath03/openrgb-python) SDK client.
+A basic [flask-restful](https://flask-restful.readthedocs.io/en/latest/) REST API for [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) using my [openrgb-python](https://github.com/jath03/openrgb-python) SDK client.
 
 ## Endpoints
 
